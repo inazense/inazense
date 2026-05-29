@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inazense&label=Profile%20views&color=0e75b6&style=flat" alt="inazense" /> </p>
 
-- 🌱 I’m currently learning **I’m currently advancing my expertise in the Spring Boot ecosystem from an architectural perspective, working with patterns and distributed architectures, refining bounded contexts, optimizing integration strategies, and designing resilient services for high‑scale environments. In parallel, I’m gaining hands‑on experience with Godot, mainly exploring its node system and GDScript for gameplay development.**
+- 🌱 I’m currently learning ** Spring Boot ecosystem from an architectural perspective, working with patterns and distributed architectures, refining bounded contexts, optimizing integration strategies, and designing resilient services for high‑scale environments. In parallel, I’m gaining hands‑on experience with Godot, mainly exploring its node system and GDScript for gameplay development.**
 
 - 📝 I regularly write articles on [programandoapasitos.com](programandoapasitos.com)
 
-- 💬 Ask me about **Ask me about backend architecture, Spring Boot at scale, and my early adventures with videogames engines**
+- 💬 Ask me about **backend architecture, Spring Boot at scale, and my early adventures with videogames engines**
 
 - 📫 How to reach me **jclaver64@gmail.com**
 
