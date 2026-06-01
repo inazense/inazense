@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **backend architecture, Spring Boot at scale, and my early adventures with videogames engines**
 
-- 📫 How to reach me **jclaver64@gmail.com**
-
 - ⚡ Fun fact **I have a natural talent for turning any trip into a series of chaotic disasters that, with time, become incredible stories.**
 
 <h3 align="left">Connect with me:</h3>
